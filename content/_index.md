@@ -84,9 +84,9 @@ sections:
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Jesper & Kim hjälpte oss att möta våra målningsbehov (bfåde exteriör
-          och interiör) i tid och snyggt. Vi rekommenderar Superior till vår
-          familj, vänner och grannar.
+          Jesper & Kim fixade till precis det hjälpte oss att möta våra
+          målningsbehov (bfåde exteriör och interiör) i tid och snyggt. Vi
+          rekommenderar Superior till vår familj, vänner och grannar.
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo

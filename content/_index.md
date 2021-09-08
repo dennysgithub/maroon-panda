@@ -88,7 +88,7 @@ sections:
           Riktigt skönt med en lokal firma i Mölndal som kom och målade om lite
           rum här hemma. Kan inte klaga på något.
       - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
+        avatar: images/bengt-kund.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Kan bara rekommendera Måleri Mölndal till alla som vill ha målare som

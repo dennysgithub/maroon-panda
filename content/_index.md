@@ -78,8 +78,9 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Dessa killar var bäst! Hela processen var smärtfri och professionell.
+          Teamet de skickade för att byta ut var artigt och vänligt. Priset
+          verkade rättvist. Jag skulle rekommendera dem till alla.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo

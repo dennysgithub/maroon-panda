@@ -23,10 +23,13 @@ sections:
       - title: Inomhusmålning
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          Det kan ta flera veckor att ge sig på inomhusmålning på egen hand med
+          all stress det innebär. Låt våra målare förvandla ert hem till något
+          fantastiskt, helt stressfritt!
+
+
+
         actions:
           - label: Learn More
             url: /features

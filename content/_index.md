@@ -85,9 +85,8 @@ sections:
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Jesper & Kim fixade till precis dhjälpte oss att möta våra
-          målningsbehov (bfåde exteriör och interiör) i tid och snyggt. Vi
-          rekommenderar Superior till vår familj, vänner och grannar.
+          Riktigt skönt med en lokal firma i Mölndal som kom och målade om lite
+          rum här hemma. Kan inte klaga på något.
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo

@@ -62,7 +62,7 @@ sections:
           takmålare för att ge dig en offert. Är du i Mölndal med omnejd kan vi
           komma på väldigt kort varsel!
         actions:
-          - label: Learn More
+          - label: Gratis offert
             url: /features
             style: secondary
             has_icon: true

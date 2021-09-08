@@ -95,7 +95,7 @@ sections:
           är enkla att jobba med och gör ett snabbt och bra jobb.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Tveka inte på att måla om!
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started

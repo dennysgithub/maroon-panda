@@ -12,7 +12,7 @@ sections:
       måleritjänster i hela Västra Götaland.
     actions:
       - label: Offertförfrågan
-        url: /features
+        url: /contact
         style: primary
   - section_id: features
     type: section_features

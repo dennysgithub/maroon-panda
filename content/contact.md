@@ -41,9 +41,6 @@ seo:
   title: Måleri Mölndal | Kontakt & Offertförfrågan
   description: Ta kontakt för att få en snabb offertförfrågan av oss.
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'

@@ -81,7 +81,7 @@ sections:
           Dem här gubbarna var grymma! Från början till slut väldigt smärtfritt
           och proffsigt. Jag tycker priset var helt okej också för en
           fasadmålning.
-      - author: Parsley Montana
+      - author: Josefin E
         avatar: images/jovanna-kund.png
         avatar_alt: Parsley Montana's photo
         content: >-

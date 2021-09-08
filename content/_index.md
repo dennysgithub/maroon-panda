@@ -72,9 +72,7 @@ sections:
     type: section_reviews
     background: white
     title: Vad säger kunderna?
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: Vi gör alltid v
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg

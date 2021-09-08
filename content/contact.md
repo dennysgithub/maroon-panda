@@ -25,7 +25,7 @@ sections:
         options:
           - Inomhusmålning
           - Fasadmålning
-          - Other
+          - Takmålning
       - input_type: textarea
         name: message
         label: Message

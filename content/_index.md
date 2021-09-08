@@ -20,7 +20,7 @@ sections:
     title: Ett måleri med bra priser & garantier.
     subtitle: Kontakta oss om du behöver kompetenta målare med mycket erfarenhet.
     features:
-      - title: The Best Feature of Your Services
+      - title: In
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-

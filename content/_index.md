@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/painter-2751658_640.jpg
+    image: images/1.jpg
     image_alt: App preview
     title: Måleri Mölndal är din nya målerifirma!
     content: >-

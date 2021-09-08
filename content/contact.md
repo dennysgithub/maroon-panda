@@ -38,7 +38,7 @@ sections:
         is_required: true
     submit_label: Skicka meddelande
 seo:
-  title: Contact
+  title: Måleri Mölndal | Kontakt & Offertförfrågan
   description: This is the contact page
   extra:
     - name: 'og:type'

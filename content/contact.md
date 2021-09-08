@@ -36,7 +36,7 @@ sections:
           Jag förstår att det här formuläret lagrar min skickade information så
           att jag kan kontaktas.
         is_required: true
-    submit_label: Send Message
+    submit_label: Skicka meddelande
 seo:
   title: Contact
   description: This is the contact page

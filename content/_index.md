@@ -53,7 +53,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Takmålning
-        image: images/feature3.png
+        image: images/roof-coating-2846279_640(1).jpg
         image_alt: App user profile preview
         content: >
           Låt inte rost & skador på taket vinna! Beställ en takmålning innan det

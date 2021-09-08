@@ -7,8 +7,9 @@ sections:
     image_alt: App preview
     title: Ditt nya favoritmåleri i Mölndal!
     content: >
-      Måleri Mölndal har sitt säte i hjärtat av Mölndal men utför måleritjänster
-      i hela Västra Götaland.
+      Måleri Mölndal har sitt säte i hjärtat av
+      [Mölndal](https://en.wikipedia.org/wiki/M%C3%B6lndal) men utför
+      måleritjänster i hela Västra Götaland.
     actions:
       - label: Offertförfrågan
         url: /features

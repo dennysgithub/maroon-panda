@@ -78,9 +78,8 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Dessa killar var bäst! Hela processen var smärtfri och professionell.
-          Teamet de skickade för att byta ut var artigt och vänligt. Priset
-          verkade rättvist. Jag skulle rekommendera dem till alla.
+          Dem här gubbarna var grymma! Från början till slut väldigt smärtfritt
+          och proffsigt. Jag tycker priset var helt okej också!
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo

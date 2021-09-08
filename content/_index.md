@@ -63,7 +63,7 @@ sections:
           komma på väldigt kort varsel!
         actions:
           - label: Gratis offert
-            url: /features
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right

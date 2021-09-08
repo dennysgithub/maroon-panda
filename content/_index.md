@@ -82,7 +82,7 @@ sections:
           och proffsigt. Jag tycker priset var helt okej också för en
           fasadmålning.
       - author: Parsley Montana
-        avatar: images/review2.jpg
+        avatar: images/jovanna-kund.png
         avatar_alt: Parsley Montana's photo
         content: >-
           Riktigt skönt med en lokal firma i Mölndal som kom och målade om lite

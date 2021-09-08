@@ -21,7 +21,7 @@ sections:
     subtitle: Kontakta oss om du behöver kompetenta målare med mycket erfarenhet.
     features:
       - title: Inomhusmålning
-        image: images/feature1.png
+        image: images/painter-2751665_640(1).jpg
         image_alt: App preview on a phone and tablet
         content: >+
           Det kan ta flera veckor att ge sig på inomhusmålning på egen hand med

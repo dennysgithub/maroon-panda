@@ -38,7 +38,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Fasadmålning
-        image: images/feature2.png
+        image: images/sampler-1508279_640(1).jpg
         image_alt: App users welcoming a new member
         content: >+
           Vi har ett härligt gäng fasadmålare som är helt specialiserad på just

@@ -79,7 +79,8 @@ sections:
         avatar_alt: Eric Widget's photo
         content: >-
           Dem här gubbarna var grymma! Från början till slut väldigt smärtfritt
-          och proffsigt. Jag tycker priset var helt okej också!
+          och proffsigt. Jag tycker priset var helt okej också för en
+          fasadmålning.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo

@@ -40,10 +40,11 @@ sections:
       - title: Fasadmålning
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >+
+          Vi har ett härligt gäng fasadmålare som är helt specialiserad på just
+          fasadmålning, allt för att kunna leverera så bra resultat som
+          möjligt. 
+
         actions:
           - label: Learn More
             url: /features

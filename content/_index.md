@@ -72,7 +72,7 @@ sections:
     type: section_reviews
     background: white
     title: Vad säger kunderna?
-    subtitle: Vi gör alltid v
+    subtitle: 'Vi gör alltid vårt yttersta för att göra '
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg

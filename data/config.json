@@ -9,7 +9,7 @@
         "nav_links": [
             {
                 "label": "Offertförfrågan",
-                "url": "/signup",
+                "url": "/contact",
                 "style": "primary"
             }
         ]

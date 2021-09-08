@@ -5,10 +5,9 @@ sections:
     type: section_contact
     background: gray
     title: Kontakt & Offertförfrågan
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      Skicka ett snabbt meddelande där du beskriver ditt ärende i korthet så
+      återkopplar vi snart vi kan.
     form_id: contactForm
     form_fields:
       - input_type: text

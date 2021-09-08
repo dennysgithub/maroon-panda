@@ -91,8 +91,8 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Kan bara rekommendera Måleri Mölndal till alla som vill ha målare som
+          är enkla att jobba med och gör ett snabbt och bra jobb.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!

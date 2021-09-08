@@ -87,7 +87,7 @@ sections:
         content: >-
           Riktigt skönt med en lokal firma i Mölndal som kom och målade om lite
           rum här hemma. Kan inte klaga på något.
-      - author: Jonquil Von Haggerston
+      - author: Bengt Andersson
         avatar: images/bengt-kund.png
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-

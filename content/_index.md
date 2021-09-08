@@ -18,7 +18,7 @@ sections:
     type: section_features
     background: gray
     title: Ett måleri med bra priser & garantier.
-    subtitle: Kontakta oss om du behöver kompetenta målare
+    subtitle: Kontakta oss om du behöver kompetenta målare med mycket erfarenhet.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png

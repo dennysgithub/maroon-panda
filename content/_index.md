@@ -46,7 +46,7 @@ sections:
           möjligt. 
 
         actions:
-          - label: Learn More
+          - label: Offertförfrågan
             url: /features
             style: secondary
             has_icon: true

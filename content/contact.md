@@ -16,7 +16,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: Email
+        label: E-post
         is_required: true
       - input_type: select
         name: subject

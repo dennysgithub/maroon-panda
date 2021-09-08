@@ -75,7 +75,7 @@ sections:
     subtitle: Vi gör alltid vårt yttersta för att göra kunderna nöjda!
     reviews:
       - author: Jovanna E
-        avatar: images/jovanna-kund.png
+        avatar: images/kent-kund.png
         avatar_alt: Eric Widget's photo
         content: >-
           Dem här gubbarna var grymma! Från början till slut väldigt smärtfritt

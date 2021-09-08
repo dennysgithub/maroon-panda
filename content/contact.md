@@ -39,7 +39,7 @@ sections:
     submit_label: Skicka meddelande
 seo:
   title: Måleri Mölndal | Kontakt & Offertförfrågan
-  description: This is the contact page
+  description: Ta kontakt för att få en snabb offertförfrågan av oss.
   extra:
     - name: 'og:type'
       value: website

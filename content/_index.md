@@ -74,7 +74,7 @@ sections:
     title: Vad säger kunderna?
     subtitle: Vi gör alltid vårt yttersta för att göra kunderna nöjda!
     reviews:
-      - author: Eric Widget
+      - author: Jovanna E
         avatar: images/jovanna-kund.png
         avatar_alt: Eric Widget's photo
         content: >-

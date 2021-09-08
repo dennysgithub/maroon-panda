@@ -102,7 +102,7 @@ sections:
         url: /signup
         style: primary
 seo:
-  title: Stackbit Azimuth Theme
+  title: Måleri Mölndal - Ett professionellt måleri
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'

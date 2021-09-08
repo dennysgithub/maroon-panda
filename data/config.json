@@ -8,11 +8,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Hem",
-                "url": "/",
-                "style": "link"
-            },
-            {
                 "label": "Offertförfrågan",
                 "url": "/signup",
                 "style": "primary"

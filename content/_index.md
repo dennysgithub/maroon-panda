@@ -47,7 +47,7 @@ sections:
 
         actions:
           - label: Ta kontakt
-            url: /features
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right

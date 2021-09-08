@@ -24,7 +24,7 @@ sections:
         default_value: Vänligen välj
         options:
           - Inomhusmålning
-          - Sponsorship
+          - Fasadmålning
           - Other
       - input_type: textarea
         name: message

@@ -98,7 +98,7 @@ sections:
     title: Tveka inte på att måla om!
     subtitle: Vi är ett måleri du kan lita på!
     actions:
-      - label: Get Started
+      - label: Kontakt
         url: /signup
         style: primary
 seo:

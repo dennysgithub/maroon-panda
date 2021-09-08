@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/painter-2751658_640(1).jpg
     image_alt: App preview
-    title: Måleri Mölndal är din nya målerifirma!
+    title: Ditt nya favoritmåleri i Mölndal!
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.

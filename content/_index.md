@@ -74,7 +74,7 @@ sections:
     title: Vad säger kunderna?
     subtitle: Vi gör alltid vårt yttersta för att göra kunderna nöjda!
     reviews:
-      - author: Kent B
+      - author: Kent Bergman
         avatar: images/kent-kund.png
         avatar_alt: Eric Widget's photo
         content: >-

@@ -55,10 +55,12 @@ sections:
       - title: Takmålning
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Låt inte rost & skador på taket vinna! Beställ en takmålning innan det
+          börjar läcka och kosta massa pengar. En takmålning kommer dessutom
+          höja värdet på bostadet, så kontakta oss så skickar vi ut en av våra
+          takmålare för att ge dig en offert. Är du i Mölndal med omnejd kan vi
+          komma på väldigt kort varsel!
         actions:
           - label: Learn More
             url: /features

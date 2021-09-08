@@ -32,7 +32,7 @@ sections:
 
         actions:
           - label: Offertförfrågan
-            url: /features
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right

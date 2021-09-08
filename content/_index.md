@@ -46,7 +46,7 @@ sections:
           möjligt. 
 
         actions:
-          - label: OffertförfråganT
+          - label: Ta kontakt
             url: /features
             style: secondary
             has_icon: true

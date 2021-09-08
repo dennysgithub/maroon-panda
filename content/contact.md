@@ -26,6 +26,7 @@ sections:
           - Inomhusmålning
           - Fasadmålning
           - Takmålning
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message

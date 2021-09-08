@@ -96,7 +96,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Tveka inte på att måla om!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Vi är ett måleri du kan lita på!
     actions:
       - label: Get Started
         url: /signup

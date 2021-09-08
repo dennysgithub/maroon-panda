@@ -103,7 +103,9 @@ sections:
         style: primary
 seo:
   title: Måleri Mölndal - Ett professionellt måleri
-  description: The preview of the Azimuth theme
+  description: >-
+    Vi är ditt lokala måleri med säte i hjärtat av Mölndal. Vi utför även
+    måleritjänster i hela Västra Götaland.
   extra:
     - name: 'og:type'
       value: website

@@ -99,7 +99,7 @@ sections:
     subtitle: Vi är ett måleri du kan lita på!
     actions:
       - label: Kontakt
-        url: /signup
+        url: /contact
         style: primary
 seo:
   title: Måleri Mölndal - Ett professionellt måleri
